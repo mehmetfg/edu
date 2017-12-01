@@ -12,4 +12,4 @@
 <link rel="stylesheet" type="text/css" href="<?php echo base_url("assets");?>/assets/uniform/css/uniform.default.css" />
 
 <!--third Party-->
-<link href="<?php echo base_url("assets");?>/css/third_party/notifIt.css" rel="stylesheet" />
+<link href="<?php echo base_url("assets");?>/css/third_party/notifIt.css" rel="stylesheet"   />
